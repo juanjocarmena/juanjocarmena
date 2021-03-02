@@ -3,8 +3,8 @@ GitHub EMEA - Enterprise Solutions Sales Manager
 
 Helping Microsoftees in their work to modernize development systems for Enterprise customers. 
 
-Software is eating the world
-Digital transformation **always** require custom developmemnt. 
+Software is eating the world |
+Digital transformation **always** require custom developmemnt |
 twitter.com/juanjoc
 
 
