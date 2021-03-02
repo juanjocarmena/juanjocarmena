@@ -1,4 +1,13 @@
-### Hi there 👋
+#### Juanjo Carmena Ayuso
+GitHub EMEA - Enterprise Solutions Sales Manager 
+
+Helping Microsoftees in their work to modernize development systems for Enterprise customers. 
+
+Software is eating the world
+Digital transformation **always** require custom developmemnt. 
+twitter.com/juanjoc
+
+
 
 <!--
 **juanjocarmena/juanjocarmena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
